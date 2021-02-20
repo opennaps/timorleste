@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/opennaps/timorleste/tree/gh-pages) branch hosts the contents of this directory at <https://opennaps.github.io/timorleste/>.
-The permalink for this webpage version is <https://opennaps.github.io/timorleste/v/52ab9dc8bba4d0c6cee348fa9d7b0b764a89ffcf/>.
+The permalink for this webpage version is <https://opennaps.github.io/timorleste/v/bfaf54b9c59295c40a614a56c5e2b1b291594ff0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://opennaps.github.io/timorleste/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`52ab9dc8bba4d0c6cee348fa9d7b0b764a89ffcf`](https://github.com/opennaps/timorleste/commit/52ab9dc8bba4d0c6cee348fa9d7b0b764a89ffcf).
+[`bfaf54b9c59295c40a614a56c5e2b1b291594ff0`](https://github.com/opennaps/timorleste/commit/bfaf54b9c59295c40a614a56c5e2b1b291594ff0).
