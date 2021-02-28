@@ -1,0 +1,9 @@
+content/03.chapter2-Framework-for-the-NAP.md:3:xxxx
+content/04.chapter3-Approach-and-Methodologies.md:3:xxxx
+content/06.chapter5-Vision-Goals-Objecives-of-the-NAP.md:3:xxxx
+content/08.chapter7-National-Adaptation-Priorities.md:3:xxxx
+content/08.chapter7-National-Adaptation-Priorities.md:4:xxxx
+content/10.chapter09-Alignment-with-the-GCF-Country-Programme.md:1:GCF
+content/10.chapter09-Alignment-with-the-GCF-Country-Programme.md:1:Programme
+content/14.chapter13-Further-development-of-the-programme-to-support-future-NAPs.md:1:programme
+content/16.chapter15-Annex2-Country-Profile.md:3:xxxx
